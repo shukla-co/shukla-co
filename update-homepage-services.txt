@@ -1,0 +1,16 @@
+Update these service card descriptions in index.html:
+
+1. Audit & Assurance → service-audit-assurance.html
+"Comprehensive audit services powered by AI analytics. Statutory audits, internal controls, tax audits, and due diligence—delivered faster with AI-enhanced risk detection, personally reviewed by CA Shiv Shukla. From startups to public companies, we ensure compliance and uncover insights."
+
+2. Fractional CFO → service-fractional-cfo.html  
+"Strategic CFO services for businesses of all sizes. Financial modeling, fundraising support, cash flow management, and M&A advisory. AI-powered dashboards provide real-time insights, while CA Shiv Shukla guides strategic decisions. Affordable CFO expertise without full-time cost."
+
+3. ROC Compliance → service-roc-compliance.html
+"Complete MCA compliance made simple. AI-automated deadline tracking, document preparation, and filing for company incorporation, annual returns, director KYC, and regulatory filings. Never miss a deadline, never face a penalty—from incorporation to ongoing compliance."
+
+4. International Taxation → service-international-taxation.html
+"Cross-border tax expertise for global operations. Transfer pricing, DTAA benefits, FEMA compliance, and NRI taxation. AI-enhanced compliance monitoring across jurisdictions, strategic structuring by CA Shiv Shukla. Navigate international tax complexity with confidence."
+
+5. Wealth Management → service-wealth-management.html
+"Personalized wealth strategies for individuals and families. Estate planning, succession, investment advisory, and multi-generational wealth transfer. AI-powered portfolio analysis combined with CA Shiv Shukla's strategic guidance. Protect and grow your wealth intelligently."

@@ -1,3 +1,19 @@
+// Welcome Screen Animation (only on homepage)
+function initWelcomeScreen() {
+  const welcomeScreen = document.querySelector('.welcome-screen');
+
+  if (welcomeScreen) {
+    // Hide welcome screen after 4 seconds
+    setTimeout(() => {
+      welcomeScreen.classList.add('hidden');
+      document.body.classList.add('loaded');
+    }, 4000);
+  }
+}
+
+// Initialize welcome screen immediately
+initWelcomeScreen();
+
 document.addEventListener('DOMContentLoaded', function(){
   const navToggle = document.getElementById('nav-toggle');
   const mainNav = document.getElementById('main-nav');
